@@ -9,10 +9,10 @@ public class UserController {
     /*
     不想创建delete方法
      */
-    public void delete(){
-
-        System.out.println("创建delete方法");
-    }
+//    public void delete(){
+//
+//        System.out.println("创建delete方法");
+//    }
 
     
 }
