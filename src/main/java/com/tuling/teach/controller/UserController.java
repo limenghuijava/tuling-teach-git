@@ -5,5 +5,9 @@ public class UserController {
     public void update(){
         System.out.println("创建update方法");
     }
+
+    public void delete(){
+        System.out.println("创建delete方法");
+    }
 }
  
