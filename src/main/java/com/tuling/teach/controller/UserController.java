@@ -15,6 +15,9 @@ public class UserController {
 //    }
 
 
-    
+    public void insert(){
+        //用户的添加功能，还未完成，此时需要修改delete方法中的BUG，使用stash命令
+    }
+
 }
  
