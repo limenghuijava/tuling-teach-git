@@ -14,6 +14,9 @@ public class UserController {
 //        System.out.println("创建delete方法");
 //    }
 
+    public void insert(){
+//        System.out.println("创建delete方法");
+    }
     
 }
  
