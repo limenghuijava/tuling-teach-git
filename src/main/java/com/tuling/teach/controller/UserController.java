@@ -6,8 +6,12 @@ public class UserController {
         System.out.println("创建update方法");
     }
 
-    public void delete(){
-        System.out.println("创建delete方法");
-    }
+    /*
+    不想创建delete方法
+     */
+//    public void delete(){
+//
+////        System.out.println("创建delete方法");
+//    }
 }
  
