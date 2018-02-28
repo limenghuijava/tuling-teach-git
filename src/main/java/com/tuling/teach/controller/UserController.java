@@ -15,12 +15,7 @@ public class UserController {
 //    }
 
     public void insert(){
-       System.out.println("创建delete方法");
-         System.out.println("创建insert方法");
-         System.out.println("创建delete方法");
-       System.out.println("创建delete方法");
-        System.out.println("创建delete方法");
-        System.out.println("创建delete方法");
+        System.out.println("修改了insert方法，最终结果只有insert方法");
     }
     
 }
